@@ -2,9 +2,9 @@
 **Vertical Spreads: A Comprehensive Guide to Options Trading** 
 ##
 
-In the world of options trading, managing risk while optimizing returns is crucial. Vertical spreads are one of the most effective strategies for achieving this balance. A vertical spread involves simultaneously buying one option and selling another of the same type (either calls or puts), with the same expiration date but different strike prices.
+In the world of options trading, managing risk while optimizing returns is crucial. **Vertical spreads** are one of the most effective strategies for achieving this balance. A vertical spread involves simultaneously buying one **option and selling another** of the same type **(either calls or puts)**, with the same expiration date but different strike prices.
 #
-These spreads provide traders with a structured approach to capitalize on directional market movements while limiting both risk and reward. They are particularly useful when a trader has a defined outlook—moderately bullish or bearish—rather than expecting extreme price movements.
+These spreads provide traders with a structured approach to capitalize on directional market movements while limiting **both risk and reward**. They are particularly useful when a trader has a defined outlook—moderately **bullish or bearish—rather** than expecting extreme price movements.
 <br/>
 #
 Vertical spreads are broadly classified into four types based on market sentiment:<br/>
