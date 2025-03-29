@@ -35,4 +35,4 @@ The upcoming code will assist you in selecting the optimal strike price by **ana
 
 
 **Python code** <br/>
-For more such codes and projects, check out the GitHub profile [deepakdalal081]
+For more such codes and projects, check out the GitHub profile [deepakdalal081](https://github.com/Deepakdalal081)
