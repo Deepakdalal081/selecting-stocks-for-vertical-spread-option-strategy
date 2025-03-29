@@ -16,10 +16,10 @@ Vertical spreads are broadly classified into four types based on market sentimen
 
 ##
 Each strategy has distinct characteristics influenced by the **Greeks (Delta, Theta, Gamma, and Vega)**, which impact profit potential, risk exposure, and sensitivity to market conditions.<br/>
-This guide will provide an in-depth analysis of **each vertical spread, covering entry points, risk management, breakeven calculations, and real-world applications** to help traders make informed decisions.<br/>
+In the upcoming code will provide an in-depth analysis of **each vertical spread, covering entry points, risk management, breakeven calculations, and real-world applications** to help traders make informed decisions.<br/>
 ##
 Selecting Stocks for a **Bull Call or Bear Call Spread**
-Choosing the right stocks for a Bull Call Spread or Bear Call Spread requires a thorough analysis of market conditions. Two key technical **indicators—Bollinger Bands and Relative Strength Index (RSI)**—offer valuable insights into whether a stock is overbought or oversold, helping traders make informed decisions.
+This code will help you choose the right stocks for a Bull Call Spread or Bear Call Spread requires a thorough analysis of market conditions. Two key technical **indicators—Bollinger Bands and Relative Strength Index (RSI)**—offer valuable insights into whether a stock is overbought or oversold, helping traders make informed decisions.
 
 
 In my **Python code**, I have classified stocks into **two categories based on these indicators**:<br/>
@@ -30,6 +30,8 @@ In my **Python code**, I have classified stocks into **two categories based on t
 Using option spreads instead of buying a **naked call** reduces risk exposure. A naked call is highly **sensitive to Delta** and significantly affected by **Theta decay**, meaning its value declines over time if the stock doesn’t move favorably. In contrast, a spread strategy provides a structured approach with defined risk and lower sensitivity to time decay, making it a more effective choice for **risk-managed trading**.<br/>
 
 Depending on the stock's outlook, other spreads like the **Bear Put Spread or Bull Put Spread** can also be considered. My Python code automates this selection process, helping traders quickly identify potential trade setups based on these indicators.<br/>
+
+The upcoming code will assist you in selecting the optimal strike price by **analyzing payoff charts**, helping you visualize potential **risk and reward scenarios**. It will also incorporate key **Greeks (such as Delta, Gamma, Theta, and Vega)** to refine decision-making. Additionally, **GARCH-based volatility** forecasting will be used to assess future market fluctuations, making it a crucial factor in selecting the right options strategy. This comprehensive approach will enable more informed and data-driven trading decisions.<br/>
 
 
 **Python code** <br/>
